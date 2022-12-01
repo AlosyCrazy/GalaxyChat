@@ -1,12 +1,12 @@
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBAResqwpCbj94IkuHuGqqdhan3pwyIlJA",
-  authDomain: "guyschat-3e9c4.firebaseapp.com",
-  databaseURL: "https://guyschat-3e9c4-default-rtdb.firebaseio.com",
-  projectId: "guyschat-3e9c4",
-  storageBucket: "guyschat-3e9c4.appspot.com",
-  messagingSenderId: "917145533593",
-  appId: "1:917145533593:web:57d2ed134d39d5fac38c08"
+  apiKey: "AIzaSyBViv1JV-6GhK35mZX7TOuC7bE3Xn0Hc5w",
+  authDomain: "galaxy-chat-dbaf1.firebaseapp.com",
+  databaseURL: "https://galaxy-chat-dbaf1-default-rtdb.firebaseio.com",
+  projectId: "galaxy-chat-dbaf1",
+  storageBucket: "galaxy-chat-dbaf1.appspot.com",
+  messagingSenderId: "939426326912",
+  appId: "1:939426326912:web:213b93d2cb2373495e3965"
 };
 
 firebase.initializeApp(firebaseConfig);
